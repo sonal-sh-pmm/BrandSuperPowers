@@ -1,0 +1,19 @@
+/* HCL Software brand tokens. Source: HCLSW brand kit (hclsw-brand skill). */
+:root {
+  --hcl-dark-teal: #17707F;
+  --hcl-software-teal: #2EC0CB;
+  --hcl-mid-teal: #36D6D9;
+  --hcl-light-teal: #AAFFFF;
+  --hcl-dark-blue: #0F5FDC;
+  --hcl-tech-blue: #3C91FF;
+  --hcl-mid-blue: #8AC6F8;
+  --hcl-light-blue: #DCE6F0;
+  --hcl-software-blue: #000032;
+  --hcl-tech-grey: #ECF3F8;
+  --hcl-dark: #14142B;
+  --hcl-bg: #F7F7FC;
+  --hcl-bg-alt: #F4F4F4;
+  --hcl-navy: #0B1D3A;
+  --hcl-gradient: linear-gradient(135deg, #0B1D3A 0%, #17707F 45%, #2EC0CB 85%, #36D6D9 100%);
+  --font-main: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
